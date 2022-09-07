@@ -1,5 +1,5 @@
 blank_issues_enabled: false
 contact_links:
   - name: Support Request / General Question ❓
-    url: https://github.com/Codeberg-AsGithubAlternative-buhtz/spielwiese/discussions
-    about: Support questions or other topcis not fitting to Feauter Request or Bug Reports.
+    url: https://github.com/bit-team/backintime/issues/new
+    about: This redirects you to the Issue section of the main repository "backintime".
