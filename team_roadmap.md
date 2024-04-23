@@ -90,5 +90,5 @@ redesign as well as code refactoring. Additionally, it lacks tests.
 Various people use _Back In Time_ via the terminal, for example, through an SSH
 shell on a headless server. There is an idea of creating a terminal user
 interface (TUI) or to enhance the existing command-line interface (CLI).
-See #254. The proposal of having a web frontend was rejected (#209). Of course
-separate projects offering a web fronted will be supported of course.
+See #254. The proposal of having a web frontend was rejected (#209).
+Separate projects offering a web fronted will be supported of course.
